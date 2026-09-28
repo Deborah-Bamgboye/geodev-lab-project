@@ -1,0 +1,7 @@
+# QGIS Geopackage temporary files
+*.gpkg-shm
+*.gpkg-wal
+
+# QGIS project backup files
+*.qgs~
+*.qgz~
