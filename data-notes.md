@@ -6,11 +6,12 @@
 - 9410 features, polygons
 - Columns : wardname(text), wardcode (text), lganame (text), lgacode (numeric), statename (text), statecode (text), status(text), source(text), urban (text)
 - Covers my LGA fully
-- COMPLETENESS: wards are complete
-- CURRENCY: Last edit 2025
-- POSITIONAL: Operational ward boundaries align with just slight deviation. 
-- ATTRIBUTE: Attributes are suffient for analysis
-- FITNESS: Data is adequate for spatial analysis as computed areas of ward line up with public figure
+ ### Quality check
+  - COMPLETENESS: wards are complete
+  - CURRENCY: Last edit 2025
+  - POSITIONAL: Operational ward boundaries align with just slight deviation. 
+  - ATTRIBUTE: Attributes are suffient for analysis
+  - FITNESS: Data is adequate for spatial analysis as computed areas of ward line up with public figure
  
 
 
@@ -21,6 +22,7 @@
 - 51022 feaures, points
 - Columns : state (text), lga (text), ward (text), facility_name (text), facility_name_source (text), ownership (text), ownership_type (text), facility_level (text)
 - Covers my LGA fully
+### Quality check
 - COMPLETENESS: all health facility points are accurately recorded. 
 - CURRENCY: Last edit 2024. Up to date
 - POSITIONAL: slight spatial deviation of some points
@@ -34,6 +36,7 @@
 - Extracted: 9/13/2026
 - 2493 features, lines
 - Coverage looks good. But relatively sparse in the ward with wardcode LASLMD02
+### Quality check
 - COMPLETENESS:All main roads are recorded , good in built-up areas
 - CURRENCY: up to date
 - POSITIONAL: the roads line up perfectly with satelite imagery
