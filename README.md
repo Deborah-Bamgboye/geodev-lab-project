@@ -1,7 +1,7 @@
 # geodev-lab-project
 Which wards in Lagos Mainland local government area are more than 5 km from a health facility?
 This project will be built over twelve months as part of GeoDev Lab Africa, Cohort One. See project-brief.md for the complete project brief
-
+## Month 1
 ### Week One -
 - [Project Brief](project-brief.md) containing source links for every dataset. 
 
@@ -18,3 +18,8 @@ This project will be built over twelve months as part of GeoDev Lab Africa, Coho
 ### Week Four -
 - [Map image ](LagosMainlandMap.png)
 - [month-1-summary.md](month-1-summary.md)
+
+## Month 2: development environment and early python
+### Week Five 
+- set up Python, VS Code and terminal, hello.py runs.
+confirmation in [week five screen shot](screenshots/week5.png)
