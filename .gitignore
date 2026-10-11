@@ -5,3 +5,4 @@
 # QGIS project backup files
 *.qgs~
 *.qgz~
+.venv/
