@@ -23,3 +23,6 @@ This project will be built over twelve months as part of GeoDev Lab Africa, Coho
 ### Week Five 
 - set up Python, VS Code and terminal, hello.py runs.
 confirmation in [week five screen shot](screenshots/week5.png)
+
+### Week 6: 
+- set up the project with uv and added pandas. check.py prints the pandas version.
