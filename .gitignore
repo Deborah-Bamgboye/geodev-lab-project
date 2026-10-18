@@ -6,3 +6,5 @@
 *.qgs~
 *.qgz~
 .venv/
+src/
+.python-version
