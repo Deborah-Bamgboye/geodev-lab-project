@@ -26,3 +26,6 @@ confirmation in [week five screen shot](screenshots/week5.png)
 
 ### Week 6: 
 - set up the project with uv and added pandas. check.py prints the pandas version.
+
+### Week 7:
+- Update week 7 deliverables analyse.py and week7.png and wards.cvs
