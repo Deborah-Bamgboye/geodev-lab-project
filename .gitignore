@@ -5,6 +5,9 @@
 # QGIS project backup files
 *.qgs~
 *.qgz~
+# Private files
 .venv/
 src/
 .python-version
+learn.py
+*.qmd

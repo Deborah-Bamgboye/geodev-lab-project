@@ -29,3 +29,6 @@ confirmation in [week five screen shot](screenshots/week5.png)
 
 ### Week 7:
 - Update week 7 deliverables analyse.py and week7.png and wards.cvs
+
+### Week 8:
+- Update week 8 deliverables inspect_data.py and csv for ward data
