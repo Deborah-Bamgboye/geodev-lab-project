@@ -25,10 +25,12 @@ This project will be built over twelve months as part of GeoDev Lab Africa, Coho
 confirmation in [week five screen shot](screenshots/week5.png)
 
 ### Week 6: 
-- set up the project with uv and added pandas. check.py prints the pandas version.
+- set up the project with uv and added pandas. [check.py](./check.py) prints the pandas version. [week six screen shot](screenshots/week6.png)
 
 ### Week 7:
-- Update week 7 deliverables analyse.py and week7.png and wards.cvs
+- Update week 7 deliverables [analyse.py](./analyse.py) and week7.png and [wards.cvs](./wards.csv) [week seven screen shot](screenshots/week7.png)
 
 ### Week 8:
-- Update week 8 deliverables inspect_data.py and csv for ward data
+- Update week 8 deliverables [inspect_data.py](./inspect_data.py) and csv for ward data [week eight screen shot](screenshots/week8.png)
+### Week 9: 
+- Refactor the previous [inspect_data.py](./inspect_data.py) code into [summary.py](./summary.py). [week nine screen shot](screenshots/week9.png)
