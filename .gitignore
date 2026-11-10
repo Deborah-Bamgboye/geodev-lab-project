@@ -11,3 +11,6 @@ src/
 .python-version
 learn.py
 *.qmd
+*.tif
+*.TIF
+*.zip

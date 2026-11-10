@@ -34,3 +34,7 @@ confirmation in [week five screen shot](screenshots/week5.png)
 - Update week 8 deliverables [inspect_data.py](./inspect_data.py) and csv for ward data [week eight screen shot](screenshots/week8.png)
 ### Week 9: 
 - Refactor the previous [inspect_data.py](./inspect_data.py) code into [summary.py](./summary.py). [week nine screen shot](screenshots/week9.png)
+
+## Month 3: Geospatial Python and automation
+### Week 10:
+- GeoPandas, layers as tables
